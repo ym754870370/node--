@@ -1,3 +1,4 @@
+//老版本慕课网结构
 var http = require('http')
 var cheerio = require('cheerio')//类似于jquery的一个库，让node更有效的操作获取到的html元素
 var url = 'http://www.imooc.com/learn/348'
